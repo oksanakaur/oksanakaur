@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer from South Africa</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oksanakaur&label=Profile%20views&color=0e75b6&style=flat" alt="oksanakaur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oksanakaur&label=Profile%20views&color=0e75b6&style=flat" alt="oksanakaur" /> </p>
 
 
 
@@ -12,8 +12,8 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/keolebogile segoneco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keolebogile segoneco" height="30" width="40" /></a>
 </p>
 
