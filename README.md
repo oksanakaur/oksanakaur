@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keolebogile Segoneco</h1>
-Fun fact: I think I am funny
+<h2 align="center">Fun fact: I think I am funny</h2>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oksanakaur&label=Profile%20views&color=0e75b6&style=flat" alt="oksanakaur" /> </p>
